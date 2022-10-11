@@ -31,7 +31,7 @@ int main()
     Q2(cJobs2);
     FCFS(cJobs3);
 
-
+    system("pause");
     return 0;
 }
 
